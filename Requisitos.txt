@@ -1,15 +1,17 @@
 Prova Programação WEB - 2o Bimestre
-(0.5) Estrutura de Grid na Página, Cor do Header, Main e Footer:
+[X](0.5) Estrutura de Grid na Página, Cor do Header, Main e Footer:
 
-(0.2) Utilize um sistema de grid, como o CSS Grid para estruturar a página.
-(0.1) Utilize a cor #4682b4 para o background do <header> e <footer>, a cor #f0f0f0 para o background do <main>.
-(0.2) Defina 100ch como tamanho máximo do conteúdo principal. para garantir uma boa experiência de leitura.
+[X] (0.2) Utilize um sistema de grid, como o CSS Grid para estruturar a página.
+[X] (0.1) Utilize a cor #4682b4 para o background do <header> e <footer>, a cor #f0f0f0 para o background do <main>.
+[X] (0.2) Defina 100ch como tamanho máximo do conteúdo principal. para garantir uma boa experiência de leitura.
+
 (0.6) Form de busca:
 
-(0.1) Crie um formulário (<form>) para o campo de busca, no header.
-(0.2) Deixe o input centralizado.
-(0.1) Adicione um botão dentro do input de busca, para ser o submit. Utilize o ícone 🔍. Adicionar cursor pointer.
-(0.2) Alinhe o botão dentro do campo de busca utilizando position: absolute.
+[X] (0.1) Crie um formulário (<form>) para o campo de busca, no header.
+[X] (0.2) Deixe o input centralizado.
+[X] (0.1) Adicione um botão dentro do input de busca, para ser o submit. Utilize o ícone 🔍. Adicionar cursor pointer.
+[X] (0.2) Alinhe o botão dentro do campo de busca utilizando position: absolute.
+
 (1.65) Filtro:
 
 (0.1) Utilize a tag <svg> com o código SVG fornecido para criar o ícone de filtro.

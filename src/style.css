@@ -1,0 +1,67 @@
+body {
+    margin: 0;
+}
+
+header {
+    background-color: #4682b4;
+    padding: 20px;
+}
+
+header h1 {
+  margin: 0;
+  text-align: center;
+  color: #f0f0f0;
+}
+
+main h2 {
+  margin: 0;
+  text-align: center;
+  color: #f0f0f0;
+}
+
+footer p {
+  margin: 0;
+  text-align: center;
+  color: #f0f0f0;
+}
+
+footer {
+    background-color: #4682b4;
+    padding: 20px;
+}
+
+main {
+    background-color: #f0f0f0;
+    max-width: 100ch;
+    padding: 20px;
+    margin: 0 auto
+}
+
+.grid {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+  }
+
+  .buscar {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .buscar-input {
+    padding: 10px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+  }
+
+  .buscar-button {
+    position: absolute;
+    right: 10px;
+    cursor: pointer;
+    background: none;
+    border: none
+  }
